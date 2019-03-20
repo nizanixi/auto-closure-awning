@@ -14,4 +14,7 @@ Just for fun, I put PIR movement sensor which will turn on LED to light the benc
 
 Beneath is scheme of the project.
 
+Here you can see how it functions
+https://youtu.be/fjNm7J8CBvk
+
 <img src = "Auto_closure_Awning.jpg">
