@@ -13,3 +13,5 @@ When Arduino sets commands, two servo motors open/close awingn.
 Just for fun, I put PIR movement sensor which will turn on LED to light the bench that could be beneath the awning.
 
 Beneath is scheme of the project.
+
+![](auto_closure_awning/Auto_closure_Awning.jpg)
