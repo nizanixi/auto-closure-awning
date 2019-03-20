@@ -14,4 +14,4 @@ Just for fun, I put PIR movement sensor which will turn on LED to light the benc
 
 Beneath is scheme of the project.
 
-![](auto_closure_awning/Auto_closure_Awning.jpg)
+<img src = "Auto_closure_Awning.jpg">
